@@ -20,7 +20,7 @@ Project is created as follows:
 
 Airflow logs is saved locally to the following path
 
-![Alt text](/Screenshots/airflowlogpath.PNG?raw=true "Airflow Log")
+![Alt text](Screenshots/airflowlogpath.PNG?raw=true "Airflow Log Path")
 
 Navigate to the project folder and execute the log analyzer python file using the below command
 
@@ -30,6 +30,6 @@ python3 log_analyzer.py <path_of_airflow_logs>
 ```
 It will iterate through all the log files and generate the below output
 
-![Alt text](/Screenshots/log_analyzer_output.PNG?raw=true "Log Analyzer output")
+![Alt text](Screenshots/log_analyzer_output.PNG?raw=true "Log Analyzer output")
 
 Refer the executionoutput.txt for the full execution log
